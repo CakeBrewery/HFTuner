@@ -1,6 +1,9 @@
 # HFTuner
 The hands-free guitar tuner!
 
+Utilizes the TarsosDSP API
+https://github.com/JorenSix/TarsosDSP  
+
 ## Compiling
 
 ### Windows 
